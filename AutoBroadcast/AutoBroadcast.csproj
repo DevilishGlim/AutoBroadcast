@@ -56,30 +56,30 @@
   <ItemGroup>
     <Reference Include="CommandFactory, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\CommandFactory.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\CommandFactory.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Sqlite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Mono.Data.Sqlite.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Mono.Data.Sqlite.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Options, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Mono.Options.6.6.0.161\lib\net40\Mono.Options.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\MySql.Data.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="OTAPI">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\OTAPI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\OTAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\TerrariaServer.exe</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\TerrariaServer.exe</HintPath>
     </Reference>
     <Reference Include="TShockAPI, Version=4.3.26.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\TShockAPI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x64)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
